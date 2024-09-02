@@ -1,2 +1,3 @@
-# -Eclipse-To-GitHub
-How To Push Code From Eclipse To GitHub Repo Using Access Token?
+Create a GitHub Repository
+Give a proper repository name. You can select either public or private. If you are a beginner in Git then do a similar setup as shown below.
+![Uploading image.png…]()
